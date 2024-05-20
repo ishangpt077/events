@@ -1,0 +1,39 @@
+
+html,
+body {
+    height: 100%;
+}
+
+.container 
+
+.container-box
+{
+	display:inline-block; 
+	padding:1px; 
+	background: rgba(255, 255, 255, .8);
+	border: 1px solid #fff;	
+	position: fixed;
+  	top: 70%;
+  	right: 0;
+
+	z-index: 111;
+	margin-right: -2%;
+}
+
+.modal-content
+{
+	background: rgba(255, 255, 255, .7);	
+}
+
+
+.rotated
+{
+	-moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    /*! transform-origin: top left; */  
+}
+
+
+
